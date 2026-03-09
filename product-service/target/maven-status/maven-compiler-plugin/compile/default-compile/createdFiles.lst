@@ -1,0 +1,10 @@
+com/klaos/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/klaos/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/klaos/productservice/model/Product$ProductBuilder.class
+com/klaos/productservice/model/Product.class
+com/klaos/productservice/dto/ProductRequest.class
+com/klaos/productservice/repository/ProductRepository.class
+com/klaos/productservice/controller/ProductController.class
+com/klaos/productservice/service/ProductService.class
+com/klaos/productservice/ProductServiceApplication.class
+com/klaos/productservice/dto/ProductResponse.class

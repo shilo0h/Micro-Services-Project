@@ -1,0 +1,5 @@
+/home/klaos/Downloads/microservices-new/inventory-service/src/main/java/com/klaos/inventory_service/InventoryServiceApplication.java
+/home/klaos/Downloads/microservices-new/inventory-service/src/main/java/com/klaos/inventory_service/repository/InventoryRepository.java
+/home/klaos/Downloads/microservices-new/inventory-service/src/main/java/com/klaos/inventory_service/service/InventoryService.java
+/home/klaos/Downloads/microservices-new/inventory-service/src/main/java/com/klaos/inventory_service/model/Inventory.java
+/home/klaos/Downloads/microservices-new/inventory-service/src/main/java/com/klaos/inventory_service/controller/InventoryController.java

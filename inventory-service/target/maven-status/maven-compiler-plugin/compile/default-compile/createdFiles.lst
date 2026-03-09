@@ -1,0 +1,5 @@
+com/klaos/inventory_service/controller/InventoryController.class
+com/klaos/inventory_service/model/Inventory.class
+com/klaos/inventory_service/service/InventoryService.class
+com/klaos/inventory_service/InventoryServiceApplication.class
+com/klaos/inventory_service/repository/InventoryRepository.class

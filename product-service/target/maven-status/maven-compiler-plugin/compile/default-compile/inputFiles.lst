@@ -1,0 +1,7 @@
+/home/klaos/Downloads/microservices-new/product-service/src/main/java/com/klaos/productservice/dto/ProductResponse.java
+/home/klaos/Downloads/microservices-new/product-service/src/main/java/com/klaos/productservice/repository/ProductRepository.java
+/home/klaos/Downloads/microservices-new/product-service/src/main/java/com/klaos/productservice/controller/ProductController.java
+/home/klaos/Downloads/microservices-new/product-service/src/main/java/com/klaos/productservice/service/ProductService.java
+/home/klaos/Downloads/microservices-new/product-service/src/main/java/com/klaos/productservice/ProductServiceApplication.java
+/home/klaos/Downloads/microservices-new/product-service/src/main/java/com/klaos/productservice/model/Product.java
+/home/klaos/Downloads/microservices-new/product-service/src/main/java/com/klaos/productservice/dto/ProductRequest.java

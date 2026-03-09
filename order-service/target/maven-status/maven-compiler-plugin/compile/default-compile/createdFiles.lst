@@ -1,0 +1,8 @@
+com/klaos/order_service/model/Order.class
+com/klaos/order_service/controller/OrderController.class
+com/klaos/order_service/dto/OrderLineItemsDto.class
+com/klaos/order_service/dto/OrderRequest.class
+com/klaos/order_service/model/OrderLineItems.class
+com/klaos/order_service/service/OrderService.class
+com/klaos/order_service/OrderServiceApplication.class
+com/klaos/order_service/repository/OrderRepository.class
