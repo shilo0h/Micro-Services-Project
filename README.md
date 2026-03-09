@@ -1,0 +1,13 @@
+Used services:
+-Api Gateway
+-KeyCloak
+-Eureka Servers
+-Zipkin
+-MongoDB
+-Kafka
+-Grafana
+-Prometheus
+-Docker
+-Resliance4j
+-Spring-cloud
+-Spring-WebFlux
